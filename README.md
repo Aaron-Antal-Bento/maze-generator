@@ -1,4 +1,4 @@
-🌀 Maze Generator & Solver
+# 🌀 Maze Generator & Solver
 
 A C# desktop application that generates random mazes of any width and height, allowing users to visualize and compare solving algorithms such as Dijkstra’s Algorithm and Depth-First Search (DFS) in real time.
 
