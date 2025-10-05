@@ -40,7 +40,7 @@ The user can also choose to export the maze saving it as a png.
 
 Clone the repository:
 
-git clone https://github.com/Aaron-Antal-Bento/maze-generator.git
+`git clone https://github.com/Aaron-Antal-Bento/maze-generator.git`
 
 Then either:
 - Open the solution in Visual Studio. Build and run the project.
