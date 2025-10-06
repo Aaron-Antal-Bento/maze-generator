@@ -1,47 +1,66 @@
-# 🌀 Maze Generator & Solver
-
+<h1>🌀 Maze Generator & Solver</h1>
+<p>
 A C# desktop application that generates random mazes of any width and height, allowing users to visualize and compare solving algorithms such as Dijkstra’s Algorithm and Depth-First Search (DFS) in real time.
+</p>
 
-🎯 Features
+<h2>Features</h2>
 
-Custom Maze Generation — Create mazes of any user-defined size with random or reproducible seeds.
+<ul>
+<li>Custom Maze Generation — Create mazes of any user-defined size with random or reproducible seeds.</li>
+<li>Algorithm Comparison — Solve mazes using Dijkstra’s Algorithm or Depth-First Search, and compare their execution speeds.</li>
+<li>Interactive Visualization — Real-time rendering of the generation and solving process.</li>
+<li>User Controls — Adjust maze dimensions, entrance and exit positions, and other parameters independently.</li>
+<li>Performance Metrics — Displays time taken and nodes visited by each algorithm for benchmarking.</li>
+</ul>
 
-Algorithm Comparison — Solve mazes using Dijkstra’s Algorithm or Depth-First Search, and compare their execution speeds.
+<h2>Technologies Used</h2>
 
-Interactive Visualization — Real-time rendering of the generation and solving process.
+<p>Built with C# (.NET 8, WinForms)</p>
 
-User Controls — Adjust maze dimensions, entrance and exit positions, and other parameters independently.
+<p>Algorithms: Dijkstra’s Algorithm, Depth-First Search (DFS)</p>
 
-Performance Metrics — Displays time taken and nodes visited by each algorithm for benchmarking.
+<h2>🎥 Demo</h2>
 
-🧠 Technologies Used
+<div style="text-align:center; margin: 1em 0;">
+<img src="./demo/MazeDemo.gif" alt="Maze generation demo (GIF)" style="max-width:100%; height:auto;" />
+</div>
 
-Built with C# (.NET 8, WinForms)
+<div style="text-align:center; margin: 1em 0;">
+<video controls style="max-width:100%; height:auto;">
+  <source src="./demo/MazeDemoVideo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</div>
 
-Algorithms: Dijkstra’s Algorithm, Depth-First Search (DFS)
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 1em 0;">
+	<h4>Mazes</h4>
+  <img src="./demo/Maze.png" alt="Maze screenshot (PNG)" style="width: 24%; height: auto; border-radius: 8px;" />
+  <img src="./demo/Maze1.png" alt="Maze screenshot (PNG)" style="width: 24%; height: auto; border-radius: 8px;" />
+  <img src="./demo/Maze2.png" alt="Maze screenshot (PNG)" style="width: 24%; height: auto; border-radius: 8px;" />
+  <img src="./demo/Maze3.png" alt="Maze screenshot (PNG)" style="width: 24%; height: auto; border-radius: 8px;" />
+</div>
 
-🎥 Demo
-...
-	
 
-⚙️ How It Works
+<h2>⚙️ How It Works</h2>
 
-The user specifies maze dimensions and clicks generate.
+<p>The user specifies maze dimensions and clicks generate.</p>
 
-The program generates a grid of nodes with randomized paths using recursive backtracking.
+<p>The program generates a grid of nodes with randomized paths using recursive backtracking.</p>
 
-The user can then choose which algorithms to solve with and compare which is quciker at finding a path from start to finish.
+<p>The user can then choose which algorithms to solve with and compare which is quciker at finding a path from start to finish.</p>
 
-The visualization updates in real time for both generating and solving, allowing the user to see how the different algorithms work.
+<p>The visualization updates in real time for both generating and solving, allowing the user to see how the different algorithms work.</p>
 
-The user can also choose to export the maze saving it as a png.
+<p>The user can also choose to export the maze saving it as a png.</p>
 
-🖥️ Usage
+<h2>🖥️ Usage</h2>
 
-Clone the repository:
+<p>Clone the repository:</p>
 
-`git clone https://github.com/Aaron-Antal-Bento/maze-generator.git`
+<pre><code>git clone https://github.com/Aaron-Antal-Bento/maze-generator.git</code></pre>
 
-Then either:
-- Open the solution in Visual Studio. Build and run the project.
-- Or navigate to "Maze Generator\bin\Debug\net8.0-windows7.0\Maze Generator.exe" and run from there
+<p>Then either:</p>
+<ul>
+<li>Open the solution in Visual Studio. Build and run the project.</li>
+<li>Or navigate to "Maze Generator\bin\Debug\net8.0-windows7.0\Maze Generator.exe" and run from there</li>
+</ul>
