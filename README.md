@@ -26,11 +26,9 @@ A C# desktop application that generates random mazes of any width and height, al
 <img src="./demo/MazeDemo2.gif" alt="Maze generation demo (GIF)" style="max-width:80%; height:auto;" />
 </div>
 
-<div style="text-align:center; margin: 1em 0;">
-<video controls style="max-width:100%; height:auto;">
-  <source src="./demo/MazeDemoVideo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div align="center" style="text-align:center; margin: 1em 0;">
+	<img src="./demo/RectangularMaze.gif" alt="Rectangular Maze Demo" style="max-width:49%; height:auto;" />
+	<img src="./demo/EntancesExits.gif" alt="Entrances and Exits Demo" style="max-width:49%; height:auto;" />
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 1em 0;">
