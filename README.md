@@ -21,8 +21,9 @@ A C# desktop application that generates random mazes of any width and height, al
 
 <h2>🎥 Demo</h2>
 
-<div style="text-align:center; margin: 1em 0;">
-<img src="./demo/MazeDemo.gif" alt="Maze generation demo (GIF)" style="max-width:100%; height:auto;" />
+<div align="center" style="text-align:center; margin: 1em 0;">
+<img src="./demo/MazeDemo.gif" alt="Maze generation demo (GIF)" style="max-width:80%; height:auto;" />
+<img src="./demo/MazeDemo2.gif" alt="Maze generation demo (GIF)" style="max-width:80%; height:auto;" />
 </div>
 
 <div style="text-align:center; margin: 1em 0;">
@@ -33,7 +34,7 @@ A C# desktop application that generates random mazes of any width and height, al
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 1em 0;">
-	<h4>Mazes</h4>
+	<h4 align="center">Maze Variations</h4>
   <img src="./demo/Maze.png" alt="Maze screenshot (PNG)" style="width: 24%; height: auto; border-radius: 8px;" />
   <img src="./demo/Maze1.png" alt="Maze screenshot (PNG)" style="width: 24%; height: auto; border-radius: 8px;" />
   <img src="./demo/Maze2.png" alt="Maze screenshot (PNG)" style="width: 24%; height: auto; border-radius: 8px;" />
