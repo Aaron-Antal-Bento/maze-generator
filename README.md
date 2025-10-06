@@ -13,12 +13,6 @@ A C# desktop application that generates random mazes of any width and height, al
 <li>Performance Metrics — Displays time taken and nodes visited by each algorithm for benchmarking.</li>
 </ul>
 
-<h2>Technologies Used</h2>
-
-<p>Built with C# (.NET 8, WinForms)</p>
-
-<p>Algorithms: Dijkstra’s Algorithm, Depth-First Search (DFS)</p>
-
 <h2>🎥 Demo</h2>
 
 <div align="center" style="text-align:center; margin: 1em 0;">
@@ -52,6 +46,14 @@ A C# desktop application that generates random mazes of any width and height, al
 <p>The visualization updates in real time for both generating and solving, allowing the user to see how the different algorithms work.</p>
 
 <p>The user can also choose to export the maze saving it as a png.</p>
+
+
+<h2>Technologies Used</h2>
+
+<p>Built with C# (.NET 8, WinForms)</p>
+
+<p>Algorithms: Dijkstra’s Algorithm, Depth-First Search (DFS)</p>
+
 
 <h2>🖥️ Usage</h2>
 
