@@ -19,7 +19,7 @@ A C# desktop application that generates random mazes of any width and height, al
 <div align="center" style="text-align:center; margin: 1em 0;">
 <img src="./demo/MazeDemo.gif" alt="Maze generation demo (GIF)" style="max-width:80%; height:auto;" />
 	<p align="center">10x10 Maze - Solving with DFS and Dijkstra</p>
-<img src="./demo/MazeDemo2.gif" alt="Maze generation demo (GIF)" style="max-width:80%; height:auto;" />
+<img src="./demo/MazeDemo2.gif" alt="Maze generation demo 2 (GIF)" style="max-width:80%; height:auto;" />
 </div>
 
 <h4 align="center">Rectangular Mazes | Maze Entrance and Exit</h4>
