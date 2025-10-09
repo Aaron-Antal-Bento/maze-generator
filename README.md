@@ -6,11 +6,11 @@ A C# desktop application that generates random mazes of any width and height, al
 <h2>Features</h2>
 
 <ul>
-<li>Custom Maze Generation — Create mazes of any user-defined size with random or reproducible seeds.</li>
-<li>Algorithm Comparison — Solve mazes using Dijkstra’s Algorithm or Depth-First Search, and compare their execution speeds.</li>
-<li>Interactive Visualization — Real-time rendering of the generation and solving process.</li>
-<li>User Controls — Adjust maze dimensions, entrance and exit positions, and other parameters independently.</li>
-<li>Performance Metrics — Displays time taken and nodes visited by each algorithm for benchmarking.</li>
+<li>Custom Maze Generation - Create mazes of any user-defined size with random or reproducible seeds.</li>
+<li>Algorithm Comparison - Solve mazes using Dijkstra’s Algorithm or Depth-First Search, and compare their execution speeds.</li>
+<li>Interactive Visualization - Real-time rendering of the generation and solving process.</li>
+<li>User Controls - Adjust maze dimensions, entrance and exit positions, and other parameters independently.</li>
+<li>Performance Metrics - Displays time taken and nodes visited by each algorithm for benchmarking.</li>
 </ul>
 
 <h2>🎥 Demo</h2>
