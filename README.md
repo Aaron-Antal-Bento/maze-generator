@@ -1,4 +1,4 @@
-<h1>🌀 Maze Generator & Solver</h1>
+<h1>Maze Generator & Solver</h1>
 <p>
 A C# desktop application that generates random mazes of any width and height, allowing users to visualize and compare solving algorithms such as Dijkstra’s Algorithm and Depth-First Search (DFS) in real time.
 </p>
@@ -11,9 +11,10 @@ A C# desktop application that generates random mazes of any width and height, al
 <li>Interactive Visualization - Real-time rendering of the generation and solving process.</li>
 <li>User Controls - Adjust maze dimensions, entrance and exit positions, and other parameters independently.</li>
 <li>Performance Metrics - Displays time taken and nodes visited by each algorithm for benchmarking.</li>
+<li>Modular Object-Oriented Design – Maze structures and cells are built as separate classes, making the system easy to extend.</li>
 </ul>
 
-<h2>🎥 Demo</h2>
+<h2>Demo</h2>
 
 <p align="center">30x30 Maze - Solving with DFS (Left Hand Rule)</p>
 <div align="center" style="text-align:center; margin: 1em 0;">
@@ -37,7 +38,7 @@ A C# desktop application that generates random mazes of any width and height, al
 </div>
 
 
-<h2>⚙️ How It Works</h2>
+<h2>How It Works</h2>
 
 <p>The user specifies maze dimensions and clicks generate.</p>
 
@@ -54,10 +55,11 @@ A C# desktop application that generates random mazes of any width and height, al
 
 <p>Built with C# (.NET 8, WinForms)</p>
 
-<p>Algorithms: Dijkstra’s Algorithm, Depth-First Search (DFS)</p>
+<p>Algorithms: Dijkstra’s Algorithm, Depth-First Search (DFS), Recursive Backtracking</p>
 
+<p>Object-oriented design separating the maze into modular classes, making the system easy to extend and maintain.</p>
 
-<h2>🖥️ Usage</h2>
+<h2>Usage</h2>
 
 <p>Clone the repository:</p>
 
