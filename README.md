@@ -16,10 +16,12 @@ A C# desktop application that generates random mazes of any width and height, al
 
 <h2>Demo</h2>
 
-<p align="center">30x30 Maze - Solving with DFS (Left Hand Rule)</p>
-<div align="center" style="text-align:center; margin: 1em 0;">
+<div align="center" style="text-align:center;">
+	<p align="center"><strong>8x8 Maze</strong></p>
+<img src="./demo/Maze.gif" alt="Maze generation demo (GIF)" style="width:450px; height:450px; margin-bottom:30px;" />
+	<h4 align="center">30x30 Maze - Solving with DFS (Left Hand Rule)</h4>
 <img src="./demo/MazeDemo.gif" alt="Maze generation demo (GIF)" style="max-width:80%; height:auto;" />
-	<p align="center">10x10 Maze - Solving with DFS and Dijkstra</p>
+	<p align="center"><strong>10x10 Maze - Solving with DFS and Dijkstra</strong></p>
 <img src="./demo/MazeDemo2.gif" alt="Maze generation demo 2 (GIF)" style="max-width:80%; height:auto;" />
 </div>
 
